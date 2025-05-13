@@ -2,7 +2,10 @@
   <img src="swarmsync.png" alt="SwarmSync Logo" width="300"/>
 </p>
 
-# SwarmSync: Collaborative AI Agent Swarms for Autonomous Task Synchronization
+<h2 align="center">SwarmSync: Collaborative AI Agent Swarms for Autonomous Task Synchronization</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thebinder-5B5BD6?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/thebinder/)
+[![X (Twitter)](https://img.shields.io/twitter/follow/TheBinderAI)](https://x.com/TheBinderAI)
 
 Welcome to **SwarmSync**, a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams. Our vertical multi-agent swarms autonomously handle complex tasks—software development, market research, operational workflows—**10x faster** and at a fraction of the cost.
 
@@ -42,7 +45,7 @@ Transform fragmented AI capabilities into cohesive, scalable solutions through a
 
 ---
 
-## Get Involved
+## Get Involved For Collaboration
 
 We're building the future of autonomous AI collaboration, and we want you to be part of it!  
 - 📢 **Stay Updated**: Follow our journey as we roll out new features and integrations.  
@@ -54,12 +57,15 @@ We're building the future of autonomous AI collaboration, and we want you to be 
 ## Contact Us
 
 Have questions or ideas? Connect with us:  
+
 🌐 **Website**: [Coming Soon]  
+
 🐦 **Follow us on X**: [TheBinder AI](https://x.com/TheBinderAI)
+
 🔗 **Follow us on LinkedIn**: [TheBinder AI](https://www.linkedin.com/company/thebinder/)
 
 ---
 
 <p align="center">
-  <strong>SwarmSync: Build smarter, faster, and together.</strong>
+  <strong>Build smarter, faster, and together.</strong>
 </p>
