@@ -1,3 +1,5 @@
+<h2 align="center">Welcome to TheBinder AI!</h2>  
+
 <p align="center">
   <img src="swarmsync.png" alt="SwarmSync Logo" width="300"/>
 </p>
