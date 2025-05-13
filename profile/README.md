@@ -9,16 +9,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thebinder-5B5BD6?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/thebinder/)
 [![X (Twitter)](https://img.shields.io/twitter/follow/TheBinderAI)](https://x.com/TheBinderAI)
 
-Welcome to **SwarmSync**, a cutting-edge platform for building **AI-powered agent swarms** that collaborate like elite human teams. Our vertical multi-agent swarms autonomously handle complex tasks—software development, market research, operational workflows—**10x faster** and at a fraction of the cost.
+Welcome to **SwarmSync**, we are building **AI-powered agent swarms** that collaborate like human teams. Our vertical multi-agent swarms autonomously handle complex tasks—software development, market research, product design, operational workflows—**10x faster** and at a fraction of the cost.
 
 🌟 **Why SwarmSync?**  
-Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human teamwork with **dynamic task allocation**, **multi-turn decision-making**, and seamless integration with tools like Search Engines, Web Browsers, GitHub, and Linear. We're also working on **MCP setup** to enhance agentic capabilities, bringing even smoother collaboration.
+Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human teamwork with **dynamic task allocation**, **multi-turn decision-making**, and seamless integration with tools like Search Engines, Web Browsers, GitHub, Linear, and many more. We're also working on the **Model Context Protocol or MCP setup** to enhance agentic capabilities, bringing even smoother collaboration within your teams.
 
 ---
 
 ## What is SwarmSync?
 
-SwarmSync empowers you to orchestrate **role-based AI agents** (e.g., PM, Developer, Researcher) that work together autonomously, syncing tasks with human-like precision. Our **vertical AI swarms** are tailored for specific domains, delivering cohesive, scalable solutions for startups, enterprises, and innovators.
+SwarmSync empowers you to orchestrate **role-based AI agents** (e.g., PM, Developer, Researcher, etc.) that work together autonomously, syncing tasks with human-like precision. Our **vertical AI swarms** are tailored for specific domains, delivering cohesive, scalable solutions for startups, enterprises, and innovators.
 
 ### Key Features
 - **Human-Like Collaboration**: AI agents dynamically allocate tasks and make decisions as a team.
@@ -31,19 +31,10 @@ SwarmSync empowers you to orchestrate **role-based AI agents** (e.g., PM, Develo
 ## Vision & Mission
 
 **Vision**:  
-Empower anyone to orchestrate AI agent teams that collaborate like human workforce, automating complex workflows **10x faster** at a fraction of the low-cost.
+Empower anyone to orchestrate AI agent teams that collaborate like a human workforce, automating complex workflows **10x faster** at a fraction of the low-cost.
 
 **Mission**:  
 Transform fragmented AI capabilities into cohesive, scalable solutions through a modular, extensible platform for multi-agent collaboration.
-
----
-
-## Why Choose SwarmSync?
-
-- **Speed**: Automate your agentic tasks and workflows **10x faster** than traditional methods.
-- **Precision**: Human-like task synchronization with role-based agents.
-- **Flexibility**: Tailored swarms for any industry or use case.
-- **Future-Ready**: Evolving with MCP setup for enhanced agentic capabilities.
 
 ---
 
