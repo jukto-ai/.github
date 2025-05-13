@@ -56,6 +56,7 @@ We're building the future of autonomous AI collaboration, and we want you to be 
 Have questions or ideas? Connect with us:  
 🌐 **Website**: [Coming Soon]  
 🐦 **Follow us on X**: [TheBinder AI](https://x.com/TheBinderAI)
+🔗 **Follow us on LinkedIn**: [TheBinder AI](https://www.linkedin.com/company/thebinder/)
 
 ---
 
