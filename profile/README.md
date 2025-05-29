@@ -57,7 +57,7 @@ Have questions or ideas? Connect with us:
 
 🔗 **Follow us on LinkedIn**: [TheBinder AI](https://www.linkedin.com/company/thebinder/)
 
-🌐 **PyPI Organization ID**: qtq60iQBz4lVzdDc
+🌐 **PyPI Organization ID**: [PyPI](https://pypi.org/org/thebinder_ai/)
 
 ---
 
