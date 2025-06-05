@@ -1,4 +1,6 @@
-<h2 align="center">Welcome to TheBinder AI!</h2>  
+<h2 align="center">Welcome to TheBinder AI!</h2>
+<h4 align="center">AI-powered Smart Agentic Engine — human-like AI solving everyday problems with ease for everyone!</h4>
+
 
 <p align="center">
   <img src="swarmsync.png" alt="SwarmSync Logo" width="300"/>
@@ -10,9 +12,6 @@
 [![X (Twitter)](https://img.shields.io/twitter/follow/TheBinderAI)](https://x.com/TheBinderAI)
 
 Welcome to **SwarmSync**, we are building **AI-powered agent swarms** that collaborate like human teams. Our vertical multi-agent swarms autonomously handle complex tasks—software development, market research, product design, operational workflows—**10x faster** and at a fraction of the cost.
-
-🌟 **Why SwarmSync?**  
-Unlike single-agent AI or rigid automation tools, SwarmSync's swarms mimic human teamwork with **dynamic task allocation**, **multi-turn decision-making**, and seamless integration with tools like Search Engines, Web Browsers, GitHub, Linear, and many more. We're also working on the **Model Context Protocol or MCP setup** to enhance agentic capabilities, bringing even smoother collaboration within your teams.
 
 ---
 
