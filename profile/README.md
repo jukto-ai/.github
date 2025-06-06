@@ -27,7 +27,7 @@ We are building a next-generation real-time agentic engine platform where agents
 
 
 ### [SwarmSync-SDK](https://github.com/TheBinder-AI/SwarmSync-SDK)  
-🥥 SwarmSync-SDK - Collaborative AI Agent Swarms for Autonomous Task Synchronization
+🧠 SwarmSync-SDK - Collaborative AI Agent Swarms for Autonomous Task Synchronization
 
 <p align="center">
   <img src="swarmsync.png" alt="SwarmSync Logo" width="300"/>
@@ -67,16 +67,16 @@ We're building the future of autonomous AI collaboration, and we want you to be 
 
 Have questions or ideas? Connect with us:  
 
-🌐 **Website**: [Coming Soon]  
+🌍 **Website**: [Coming Soon]  
 
 🐦 **Follow us on X**: [TheBinder AI](https://x.com/TheBinderAI)
 
 🔗 **Follow us on LinkedIn**: [TheBinder AI](https://www.linkedin.com/company/thebinder/)
 
-🌐 **PyPI Organization ID**: [PyPI](https://pypi.org/org/thebinder_ai/)
+📦 **PyPI Organization ID**: [PyPI](https://pypi.org/org/thebinder_ai/)
 
 ---
 
 <p align="center">
-  <strong>Build smarter, faster, and together.</strong>
+  <strong>💡Build smarter, faster, and together.</strong>
 </p>
