@@ -5,8 +5,14 @@
   <img src="name.jpeg" alt="SwarmSync Logo" width="300"/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thebinder-5B5BD6?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/thebinder/)
-[![X (Twitter)](https://img.shields.io/twitter/follow/TheBinderAI)](https://x.com/TheBinderAI)
+<p align="center">
+  <a href="https://www.linkedin.com/company/thebinder/">
+    <img src="https://img.shields.io/badge/LinkedIn-thebinder-5B5BD6?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/TheBinderAI">
+    <img src="https://img.shields.io/twitter/follow/TheBinderAI" alt="Twitter"/>
+  </a>
+</p>
 
 We are building a next-generation real-time agentic engine platform where agents can collaborate and autonomously do multi-step reasoning to automate daily tasks.
 
