@@ -46,8 +46,6 @@ Welcome to learn about our open-source **SwarmSync-SDK** project, where we are b
 ### [SwarmSync Deep Research](https://github.com/TheBinder-AI/SwarmSync-Deep-Research)
 🕸️ Open-source deep research engine — you can now build your own Perplexity, ChatGPT, or Gemini-like tool.
 
-**Release**: Coming Soon
-
 ---
 
 ## Vision & Mission
