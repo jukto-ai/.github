@@ -48,6 +48,11 @@ Welcome to learn about our open-source **SwarmSync-SDK** project, where we are b
 
 ---
 
+### [COGNIX CLI](https://github.com/TheBinder-AI/cognix-cli)
+🕸️ Open-source multi-agentic CLI to perform autonomous research and analysis.
+
+---
+
 ## Vision & Mission
 
 **Vision**:  
