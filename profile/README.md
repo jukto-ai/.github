@@ -31,7 +31,7 @@ Our flagship technology, **SwarmSync**, coordinates vertical agent for:
 
 ## 🔒 Stealth Mode Venture
 
-We are currently in **stealth mode**, developing an AI-native **FinOps agentic brain** that automates end-to-end financial workflows.
+We are currently in **stealth mode**, developing an AI-native **FinOps agentic brain - "Axilo"** that automates end-to-end financial workflows.
 
 - ⚙️ AI-native multi-agentic brain for FinOps to autonomously manage and optimize procurement to forecasting.
 - 🎯 Goal: Become the first AI CFO that never sleeps 
