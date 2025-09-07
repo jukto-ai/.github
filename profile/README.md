@@ -1,5 +1,5 @@
 <h1 align="center">🤖 Welcome to TheBinder AI</h1>
-<h3 align="center">AI-powered Smart Agentic Engine — human-like AI solving everyday problems with ease for everyone!</h3>
+<h3 align="center">AI-powered Collective Intelligence Engine — where humans and AI work side by side!</h3>
 
 <p align="center">
   <img src="name.jpeg" alt="TheBinder AI Logo" width="280" />
@@ -16,27 +16,29 @@
 
 ---
 
-## 🚀 What We’re Building
+##  Organization Overview: TheBinder AI
 
-We are building a next-generation **multi-agentic intelligence platform** — an AI-native OS where agents **reason, collaborate, and act** like expert teams to work independently.
-
-Our flagship technology, **SwarmSync**, coordinates vertical agent for:
-- FinOps Automation
-- Research & Development Analysis
-- Other internal operations
-
-> "Think of it as your AI-native startup team-in-a-box — collaborative agents that solve tasks just like people do."
+**TheBinder AI** is the home of our innovationsin **open source** and **research-driven projects**. Under TheBinder AI, we’re building our flagship product: **Jukto — The Collaborative Data OS (Operating System)**.
 
 ---
 
-## 🔒 Stealth Mode Venture
+## 🚀 Product Spotlight: What Is Jukto?
 
-We are currently in **stealth mode**, developing an AI-native **FinOps agentic brain - "Axilo"** that automates end-to-end financial workflows.
+<p align="center">
+  <img src="favicon.png" alt="Jukto Logo" width="280" />
+</p>
 
-- ⚙️ AI-native multi-agentic brain for FinOps to autonomously manage and optimize procurement to forecasting.
-- 🎯 Goal: Become the first AI CFO that never sleeps 
-- 🏛 Currently on the 21-day delta program at [The Residency](https://www.livetheresidency.com/).
-- 🔒 More soon.
+Jukto is a next-generation **Collaborative Data Operating System (OS)** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. Palantir proved what’s possible when organizations fuse data and decision-making. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS for teams of any size. Built for transparency, trust, and collaboration between humans and AI.
+
+---
+
+## Mission & Vision
+
+**Mission:**  
+To empower every organization to turn raw data into collective intelligence by unifying fragmented tools into a single, collaborative operating system.
+
+**Vision:**  
+Jukto will become the default data OS for organizations, replacing fragmented tools with a single layer where humans + AI reason together. “Every company will run on data. Jukto is how they’ll run on intelligence.”
 
 ---
 
@@ -66,20 +68,16 @@ Welcome to learn about our open-source **SwarmSync-SDK** project, where we are b
 📡 Open-source deep research engine — you can now build your own Perplexity, ChatGPT, or Gemini-like tool.
 
 ---
+### AI-native **FinOps agentic brain - "Axilo"**
+
+- ⚙️ AI-native multi-agentic brain for FinOps that automates end-to-end financial workflows.
+- 🏛 21-day delta program at [The Residency](https://www.livetheresidency.com/).
+
+---
 
 ### [COGNIX CLI](https://github.com/TheBinder-AI/cognix-cli)
 
 🧬 Open-source multi-agentic CLI to perform autonomous research and analysis.
-
----
-
-## 🌍 Vision & Mission
-
-**Vision**:  
-To build an intelligent automation through **agentic AI systems** that collaborate like human teams and solve complex problems faster, cheaper, and smarter.
-
-**Mission**:
-To unify fragmented AI tools into one single, easy-to-use platform where agents work together to provide automated solutions for anyone seamlessly (individuals to entire teams).
 
 ---
 
@@ -88,8 +86,7 @@ To unify fragmented AI tools into one single, easy-to-use platform where agents 
 We're actively building and growing our open-source and stealth products. Here's how you can get involved:
 
 - 💬 **Join the conversation**: Connect on X or LinkedIn  
-- 🧠 **Collaborate**: Work with us on open research and FinOps applications. Reach out!  
-- ✨ **Contribute**: PRs, use cases, and SDK feedback are welcome!
+- 🧠 **Feedback or collaboration ideas?**: We’d love to hear them!  
   
 ---
 
