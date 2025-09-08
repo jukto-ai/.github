@@ -28,7 +28,7 @@
   <img src="favicon.png" alt="Jukto Logo" width="280" />
 </p>
 
-**Jukto** (Bengali for *connected*) is a next-generation **Collaborative Data Operating System (OS)** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. Palantir proved what’s possible when organizations fuse data and decision-making. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS for teams of any size. Built for transparency, trust, and collaboration between humans and AI.
+**Jukto** (Bengali for *`connected`*) is a next-generation **Collaborative Data Operating System (OS)** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. Palantir proved what’s possible when organizations fuse data and decision-making. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS for teams of any size. Built for transparency, trust, and collaboration between humans and AI.
 
 **Mission:**  
 To empower every organization to turn raw data into collective intelligence by unifying fragmented tools into a single, collaborative operating system.
