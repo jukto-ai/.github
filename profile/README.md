@@ -30,6 +30,12 @@
 
 Jukto is a next-generation **Collaborative Data Operating System (OS)** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. Palantir proved what’s possible when organizations fuse data and decision-making. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS for teams of any size. Built for transparency, trust, and collaboration between humans and AI.
 
+**Mission:**  
+To empower every organization to turn raw data into collective intelligence by unifying fragmented tools into a single, collaborative operating system.
+
+**Vision:**  
+Jukto will become the default data OS for organizations, replacing fragmented tools with a single layer where humans + AI reason together. “Every company will run on data. Jukto is how they’ll run on intelligence.”
+
 ---
 <div align="center">
 
@@ -125,17 +131,6 @@ And you will help shape **what comes next**.
 body { background-color: #0a0a0a; color: #ffffff; }
 </style>
 -->
-
-
----
-
-## Mission & Vision
-
-**Mission:**  
-To empower every organization to turn raw data into collective intelligence by unifying fragmented tools into a single, collaborative operating system.
-
-**Vision:**  
-Jukto will become the default data OS for organizations, replacing fragmented tools with a single layer where humans + AI reason together. “Every company will run on data. Jukto is how they’ll run on intelligence.”
 
 ---
 
