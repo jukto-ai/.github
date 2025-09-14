@@ -28,13 +28,15 @@
   <img src="favicon.png" alt="Jukto Logo" width="280" />
 </p>
 
-**Jukto** (Bengali for *`connected`*) is a next-generation **Collaborative Data OS** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. Palantir proved what’s possible when organizations fuse data and decision-making. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS for teams of any size. Built for transparency, trust, and collaboration between humans and AI.
+**Jukto** (Bengali for *`connected`*) is a next-generation **Collaborative Data OS** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. 
+
+Palantir proved what’s possible when data and decisions come together. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS built for transparency, trust, and collaboration between humans and AI.
 
 **Mission:**  
 To empower every organization to turn raw data into collective intelligence by unifying fragmented tools into a single, collaborative operating system.
 
 **Vision:**  
-Jukto will become the default data OS for organizations, replacing fragmented tools with a single layer where humans + AI reason together. “Every company will run on data. Jukto is how they’ll run on intelligence.”
+Jukto will be the default Data OS for organizations - replacing silos with a single layer where humans + AI reason together. “Every company will run on data. Jukto is how they’ll run on intelligence.”
 
 ---
 <div align="center">
@@ -45,8 +47,8 @@ Jukto will become the default data OS for organizations, replacing fragmented to
 
 ---
 
-We did not build Jukto because we love dashboards.  
-We built it because we were tired of watching brilliant teams waste hours — every single day — buried under disconnected tools, broken pipelines, data chaos, and costs.  
+We didn't build Jukto because we love dashboards.  
+We built it because we were tired of watching brilliant teams waste 20+ hours a week buried under broken pipelines, disconnected tools, and endless dashboards.  
 
 Ask any Analyst, Engineer, or Decision-maker:
 
@@ -58,10 +60,10 @@ So we started over.
 
 Jukto is not a BI tool.  
 Not a notebook.  
-Not a static dashboard.  
+Not another dashboard.  
 
 **Jukto is the first true Collaborative Data OS**  
-A place where **humans and AI reason together**, live, and act — in real-time.  
+A place where **humans and AI reason together**, live, and act in real-time.  
 
 ---
 
@@ -69,7 +71,7 @@ Your queries? Already contextualized.
 Your reports? Already interactive.  
 Your insights? Already actionable.  
 
-**Jukto** handles the heavy lifting, so your team can focus on what matters..  
+**Jukto** handles the heavy lifting, so your team can focus on **decisions, not chores**.  
 
 This is not about pretty charts/dashboards.  
 It’s about turning data into action, so your team spends less time managing numbers and more time **building, growing, and leading**.
@@ -78,12 +80,12 @@ Because no one became a data scientist, analyst, or engineer to babysit broken t
 ---
 
 We’ve talked to teams stuck in silos, slowed down by approvals, or buried in spreadsheets.
-The giants had decades to fix this. They did not.  
+The giants had decades to fix this. They didn't.  
 They promised clarity but delivered busywork, then called it **progress**. 
 
 We are not a plugin.  
 We are not a prettier report.  
-We exist so your team stops **wasting 20+ hours a week** to endless spreadsheets, broken pipelines, and clicking between ten different tools.
+We exist so your team stops **wasting 20+ hours a week** on endless spreadsheets, broken pipelines, and clicking between ten different tools.
 
 ---
 
@@ -91,9 +93,9 @@ Traditional tools ask:
 
 *"Did you finish your data chores today?"*  
 
-Jukto says:
+Jukto asks:
 
-**"Stop babysitting data. Make the call. We’ll handle the rest."**  
+**"What decision will you make today? We’ll handle the rest."**  
 
 This is not software.  
 This is liberation.  
