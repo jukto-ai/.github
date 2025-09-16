@@ -25,10 +25,10 @@
 ## 🚀 Product Spotlight: What Is Jukto?
 
 <p align="center">
-  <img src="favicon.png" alt="Jukto Logo" width="280" />
+  <img src="jukto.png" alt="Jukto Logo" width="280" />
 </p>
 
-**Jukto** (Bengali for *`connected`*) is a next-generation **Collaborative Data OS** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. 
+**Jukto** (Bengali for *`connected`*) is a next-generation **AI-native Self-Serve Collaborative Data OS** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. 
 
 Palantir proved what’s possible when data and decisions come together. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS built for transparency, trust, and collaboration between humans and AI.
 
@@ -42,7 +42,7 @@ Jukto will be the default Data OS for organizations - replacing silos with a sin
 <div align="center">
 
 # **System of Action Manifesto**
-## *Jukto - The Collaborative Data OS*  
+## *Jukto - AI-native Self-Serve Collaborative Data OS*  
 ### *Turn raw data into collective intelligence*
 
 ---
