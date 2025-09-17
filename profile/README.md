@@ -1,32 +1,22 @@
-<h1 align="center">🤖 Welcome to TheBinder AI</h1>
-<h3 align="center">AI-powered Collective Intelligence Engine — where humans and AI work side by side!</h3>
-
-<p align="center">
-  <img src="name.jpeg" alt="TheBinder AI Logo" width="280" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/company/thebinder/">
-    <img src="https://img.shields.io/badge/LinkedIn-thebinder-5B5BD6?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/TheBinderAI">
-    <img src="https://img.shields.io/twitter/follow/TheBinderAI?style=social" alt="Twitter" />
-  </a>
-</p>
-
----
-
-##  Organization Overview: TheBinder AI
-
-**TheBinder AI** is the home of our innovationsin **open source** and **research-driven projects**. Under TheBinder AI, we’re building our flagship product: **Jukto — The Collaborative Data OS (Operating System)**.
-
----
-
-## 🚀 Product Spotlight: What Is Jukto?
+<h1 align="center">🤖 Welcome to Jukto AI</h1>
+<h3 align="center">AI-native Self-Serve Collaborative Data OS/workspace — where humans and AI work side by side!</h3>
 
 <p align="center">
   <img src="jukto.png" alt="Jukto Logo" width="280" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/juktoai/">
+    <img src="https://img.shields.io/badge/LinkedIn-juktoai-5B5BD6?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/JuktoAI">
+    <img src="https://img.shields.io/twitter/follow/JuktoAI?style=social" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+## 🚀 What Is Jukto?
 
 **Jukto** (Bengali for *`connected`*) is a next-generation **AI-native Self-Serve Collaborative Data OS** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. 
 
@@ -182,8 +172,8 @@ We're actively building and growing our open-source and stealth products. Here's
 Have ideas, feedback, or want to collaborate? Connect with us:  
 
 - 🌐 **Website**: Coming soon  
-- 𝕏  **Twitter**: [@TheBinderAI](https://x.com/TheBinderAI)  
-- ℹ️ **LinkedIn**: [TheBinder AI](https://www.linkedin.com/company/thebinder/)  
+- 𝕏  **Twitter**: [@JuktoAI](https://x.com/JuktoAI)  
+- ℹ️ **LinkedIn**: [Jukto AI](https://www.linkedin.com/company/juktoai/)  
 - 📦 **PyPI**: [PyPI Organization](https://pypi.org/org/thebinder_ai/)
 
 ---
