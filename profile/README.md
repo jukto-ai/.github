@@ -1,5 +1,5 @@
 <h1 align="center">🤖 Welcome to Jukto AI</h1>
-<h3 align="center">AI-native Self-Serve Collaborative Data OS/workspace — where humans and AI work side by side!</h3>
+<h3 align="center">AI-native Self-Serve Collaborative Data Platform — where humans and AI work side by side!</h3>
 
 <p align="center">
   <img src="jukto.png" alt="Jukto Logo" width="280" />
@@ -16,17 +16,33 @@
 
 ---
 
-## 🚀 What Is Jukto?
+## 🎯 TLDR: everything you should know about Jukto
 
-**Jukto** (Bengali for *`connected`*) is a next-generation **AI-native Self-Serve Collaborative Data OS** designed to unify fragmented workflows into a single, AI-native layer. It enables teams to turn raw data into **collective intelligence**, blending code, natural language, and real-time collaboration. 
+> Empowering teams to turn data into actionable decisions at scale.
+
+In today's business world, `data` is ubiquitous and serves as a critical success metric. However, when insights are fragmented across disconnected tools, delayed, or inaccessible, teams often face challenges navigating between SQL, Python, BI platforms, and reporting workflows. This fragmentation leads to slow decision-making and creates operational bottlenecks.
+
+**Jukto** (Bengali for *`connected`*) is on a mission to change that. We're building an **AI-native Self-Serve Collaborative Data Platform** that is designed to unify fragmented workflows into a single, AI-native layer to **connect, analyze, visualize, automate, and collaborate**. Think of it as "`Palantir For Data Teams`".
 
 Palantir proved what’s possible when data and decisions come together. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS built for transparency, trust, and collaboration between humans and AI.
 
-**Mission:**  
-To empower every organization to turn raw data into collective intelligence by unifying fragmented tools into a single, collaborative operating system.
+**Vision: Why Jukto Exists**
 
-**Vision:**  
-Jukto will be the default Data OS for organizations - replacing silos with a single layer where humans + AI reason together. “Every company will run on data. Jukto is how they’ll run on intelligence.”
+Most of the modern enterprises/organizations spend millions on disconnected analytics tools, reporting, and more. It leads teams and analysts to struggle and spend more time wrangling data than making decisions. Most of the traditional BI dashboards and notebooks are static, siloed, and often require specialized knowledge. 
+
+While with Jukto, businesses can:
+
+- **Connect** live data from Databricks, Trino, BigQuery, Snowflake, CSV/XLSX, and many more.
+- **Analyze** using SQL, Python, and Agentic queries in natural language
+- **Visualize** dynamic drag-and-drop dashboard and actionable insight generation (table, chart, etc.)
+- **Automate** alerts, schedule reports, and a fully autonomous agentic workflow for automation
+- **Collaboration** with teams in real-time, share, and publish dashboards seamlessly
+
+  > A unified multi-player workspace to act faster with confidence to make business decisions.
+
+**The Opportunity**
+
+We (**Jukto**) become the *platform of choice* for modern enterprises/organizations to scale analytics, automated reporting, and turn any data into their strategic advantage to grow business when data-driven decision-making is critical. We are constantly improving Jukto to **make workflows more useful, deliver insights faster, and create a better experience** for users to self-serve, with the goal of making **Jukto** the standard platform for AI-driven data operations.
 
 ---
 <div align="center">
@@ -126,6 +142,29 @@ body { background-color: #0a0a0a; color: #ffffff; }
 
 ---
 
+## 🤝 Why Join Us
+
+- **Ownership & Impact:** Take full ownership of your work, influence product direction, and see your solutions used in real enterprise workflows.
+
+- **Career Growth:** Shape your role, grow with the company, and accelerate your professional development.
+
+- **Meaningful Work:** Solve complex problems that directly empower decision-makers and drive organizational success.
+
+We are looking for **critical thinkers, problem solvers, and strong communicators** who thrive in a fast-paced environment, embrace ownership, and are passionate about creating tools that transform how enterprises make decisions.
+  
+---
+
+## 📬 Contact Us
+
+Have ideas, feedback, or want to collaborate? Connect with us:  
+
+- 🌐 **Website**: Coming soon  
+- 𝕏  **Twitter**: [@JuktoAI](https://x.com/JuktoAI)  
+- ℹ️ **LinkedIn**: [Jukto AI](https://www.linkedin.com/company/juktoai/)  
+- 📦 **PyPI**: [PyPI Organization](https://pypi.org/org/thebinder_ai/)
+
+---
+
 ## 🧠 Featured Open Source Projects
 
 
@@ -155,26 +194,6 @@ body { background-color: #0a0a0a; color: #ffffff; }
 ### [COGNIX CLI](https://github.com/TheBinder-AI/cognix-cli)
 
 🧬 Open-source multi-agentic CLI to perform autonomous research and analysis.
-
----
-
-## 🤝 Join Us or Collaborate
-
-We're actively building and growing our open-source and stealth products. Here's how you can get involved:
-
-- 💬 **Join the conversation**: Connect on X or LinkedIn  
-- 🧠 **Feedback or collaboration ideas?**: We’d love to hear them!  
-  
----
-
-## 📬 Contact Us
-
-Have ideas, feedback, or want to collaborate? Connect with us:  
-
-- 🌐 **Website**: Coming soon  
-- 𝕏  **Twitter**: [@JuktoAI](https://x.com/JuktoAI)  
-- ℹ️ **LinkedIn**: [Jukto AI](https://www.linkedin.com/company/juktoai/)  
-- 📦 **PyPI**: [PyPI Organization](https://pypi.org/org/thebinder_ai/)
 
 ---
 
