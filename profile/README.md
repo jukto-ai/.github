@@ -158,7 +158,7 @@ We are looking for **critical thinkers, problem solvers, and strong communicator
 
 Have ideas, feedback, or want to collaborate? Connect with us:  
 
-- 🌐 **Website**: Coming soon  
+- 🌐 **Website**: [Jukto AI](http://www.juktoai.com/)
 - 𝕏  **Twitter**: [@JuktoAI](https://x.com/JuktoAI)  
 - ℹ️ **LinkedIn**: [Jukto AI](https://www.linkedin.com/company/juktoai/)  
 - 📦 **PyPI**: [PyPI Organization](https://pypi.org/org/thebinder_ai/)
