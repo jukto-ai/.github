@@ -48,7 +48,7 @@ We (**Jukto**) become the *platform of choice* for modern enterprises/organizati
 <div align="center">
 
 # **System of Action Manifesto**
-## *Jukto - AI-native Self-Serve Collaborative Data OS*  
+## *Jukto - AI-native Self-Serve Collaborative Data Platform*  
 ### *Turn raw data into collective intelligence*
 
 ---
@@ -68,7 +68,7 @@ Jukto is not a BI tool.
 Not a notebook.  
 Not another dashboard.  
 
-**Jukto is the first true Collaborative Data OS**  
+**Jukto is the first true Collaborative Data Platform**  
 A place where **humans and AI reason together**, live, and act in real-time.  
 
 ---
