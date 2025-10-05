@@ -20,29 +20,33 @@
 
 > Empowering teams to turn data into actionable decisions at scale.
 
-In today's business world, `data` is ubiquitous and serves as a critical success metric. However, when insights are fragmented across disconnected tools, delayed, or inaccessible, teams often face challenges navigating between SQL, Python, BI platforms, and reporting workflows. This fragmentation leads to slow decision-making and creates operational bottlenecks.
+In today’s world, every business runs on `data`, but insights are scattered. Teams waste hours jumping between SQL, Python, BI dashboards, and reports.
 
-**Jukto** (Bengali for *`connected`*) is on a mission to change that. We're building an **AI-native Self-Serve Collaborative Data Platform** that is designed to unify fragmented workflows into a single, AI-native layer to **connect, analyze, visualize, automate, and collaborate**. Think of it as "`Palantir For Data Teams`".
+**Jukto** (Bengali for *`connected`*) is on a mission to change that. We're building an **AI-native Self-Serve Collaborative Data Platform** that is designed to unify fragmented workflows into a single, AI-native layer to **connect, analyze, visualize, automate, and collaborate**. 
 
-Palantir proved what’s possible when data and decisions come together. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data OS built for transparency, trust, and collaboration between humans and AI.
+Think of it as "**Palantir For Data Teams**". **Palantir proved what’s possible** when data and decisions come together. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data platform built for transparency, trust, and collaboration between humans and AI.
 
 **Vision: Why Jukto Exists**
 
-Most of the modern enterprises/organizations spend millions on disconnected analytics tools, reporting, and more. It leads teams and analysts to struggle and spend more time wrangling data than making decisions. Most of the traditional BI dashboards and notebooks are static, siloed, and often require specialized knowledge. 
+Modern organizations spend millions on scattered analytics tools. Teams waste hours managing data instead of making decisions. Traditional dashboards and notebooks are static, siloed, hard to use, and often require specialized knowledge. 
 
-While with Jukto, businesses can:
+> The result? Brilliant teams trapped in maintenance mode — fixing instead of creating.
+
+**Jukto changes that.**
+
+While with Jukto, teams can:
 
 - **Connect** live data from Databricks, Trino, BigQuery, Snowflake, CSV/XLSX, and many more.
-- **Analyze** using SQL, Python, and Agentic queries in natural language
-- **Visualize** dynamic drag-and-drop dashboard and actionable insight generation (table, chart, etc.)
-- **Automate** alerts, schedule reports, and a fully autonomous agentic workflow for automation
-- **Collaboration** with teams in real-time, share, and publish dashboards seamlessly
+- **Analyze** using SQL, Python, or plain English queries with AI agents
+- **Visualize** insights through drag-and-drop dashboards
+- **Automate** alerts, reports, and agentic workflows
+- **Collaboration** with teams in real time, share, and publish effortlessly
 
-  > A unified multi-player workspace to act faster with confidence to make business decisions.
+  > We bring data, people, and AI together in one real-time, connected environment.
 
 **The Opportunity**
 
-We (**Jukto**) become the *platform of choice* for modern enterprises/organizations to scale analytics, automated reporting, and turn any data into their strategic advantage to grow business when data-driven decision-making is critical. We are constantly improving Jukto to **make workflows more useful, deliver insights faster, and create a better experience** for users to self-serve, with the goal of making **Jukto** the standard platform for AI-driven data operations.
+We’re building **Jukto** to become the *platform of choice* for modern data-driven teams where analytics, automation, and collaboration come together in one place. We are constantly improving Jukto to **make workflows more useful, deliver insights faster, and create a better experience** for users to self-serve, with the goal of making **Jukto** the standard platform for AI-driven data operations, so every organization can turn data into a strategic advantage.
 
 ---
 <div align="center">
@@ -73,9 +77,9 @@ A place where **humans and AI reason together**, live, and act in real-time.
 
 ---
 
-Your queries? Already contextualized.  
-Your reports? Already interactive.  
-Your insights? Already actionable.  
+Your queries? **Already contextualized**.  
+Your reports? **Already interactive**.  
+Your insights? **Already actionable**.  
 
 **Jukto** handles the heavy lifting, so your team can focus on **decisions, not chores**.  
 
