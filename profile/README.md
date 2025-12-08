@@ -171,6 +171,16 @@ Have ideas, feedback, or want to collaborate? Connect with us:
 
 ## 🧠 Featured Open Source Projects
 
+### [Jukto AI: GPU Inference Optimizer]()
+
+📡 We are building an AI agent that automatically writes, benchmarks, and continuously evolves the fastest possible GPU kernels and inference configs.
+
+---
+### AI-powered GPU Kernel Inference
+
+- ⚙️ Unified, automated optimization layer to write the fastest GPU kernel code
+
+---
 
 ### [SwarmSync-SDK](https://github.com/TheBinder-AI/SwarmSync-SDK)  
 
