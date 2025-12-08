@@ -171,7 +171,7 @@ Have ideas, feedback, or want to collaborate? Connect with us:
 
 ## 🧠 Featured Open Source Projects
 
-### [Jukto AI: GPU Inference Optimizer]()
+### [Jukto AI: GPU Inference Optimizer](https://github.com/jukto-ai/JuktoAI-GPU)
 
 📡 We are building an AI agent that automatically writes, benchmarks, and continuously evolves the fastest possible GPU kernels and inference configs.
 
