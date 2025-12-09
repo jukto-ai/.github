@@ -1,5 +1,5 @@
 <h1 align="center">🤖 Welcome to Jukto AI</h1>
-<h3 align="center">AI-native Self-Serve Collaborative Data Platform — where humans and AI work side by side!</h3>
+<h3 align="center">AI-Powered GPU Kernel Optimization — Accelerate AI Inference with Autonomous Agents!</h3>
 
 <p align="center">
   <img src="jukto.png" alt="Jukto Logo" width="280" />
@@ -18,112 +18,112 @@
 
 ## 🎯 TLDR: everything you should know about Jukto
 
-> Empowering teams to turn data into actionable decisions at scale.
+> Empowering AI teams to unlock peak GPU performance at scale.
 
-In today’s world, every business runs on `data`, but insights are scattered. Teams waste hours jumping between SQL, Python, BI dashboards, and reports.
+In today’s AI world, every model runs on GPUs, but optimization is scattered. Teams waste weeks manually tuning kernels, configs, and inference engines, leading to inefficient compute and skyrocketing costs.
 
-**Jukto** (Bengali for *`connected`*) is on a mission to change that. We're building an **AI-native Self-Serve Collaborative Data Platform** that is designed to unify fragmented workflows into a single, AI-native layer to **connect, analyze, visualize, automate, and collaborate**. 
+**Jukto** (Bengali for `connected`) is on a mission to change that. We're building an **AI-Powered GPU Kernel Optimization Platform** that unifies fragmented workflows into a single, AI-native layer to **generate, optimize, benchmark, and deploy** the fastest possible GPU kernels.
 
-Think of it as "**Palantir For Data Teams**". **Palantir proved what’s possible** when data and decisions come together. But Foundry is closed and out of reach for most. Jukto democratizes that power: an accessible, flexible data platform built for transparency, trust, and collaboration between humans and AI.
+Think of it as "**Jukto: GPU Performance Optimization as a Service**". Tools like Triton and TensorRT have shown what's possible, but they're manual, vendor-locked, and inaccessible for most. Jukto democratizes that power: an accessible, flexible platform built for speed, portability, and collaboration between humans and AI agents.
 
 **Vision: Why Jukto Exists**
 
-Modern organizations spend millions on scattered analytics tools. Teams waste hours managing data instead of making decisions. Traditional dashboards and notebooks are static, siloed, hard to use, and often require specialized knowledge. 
+Modern AI organizations spend millions on GPU compute, but 90% of it runs at sub-optimal efficiency. Teams waste time wrestling with CUDA, Triton, and hyperparameter tuning, often requiring deep expertise in low-level programming.
 
-> The result? Brilliant teams trapped in maintenance mode — fixing instead of creating.
+> The result? Brilliant engineers trapped in optimization hell — tweaking instead of innovating.
 
 **Jukto changes that.**
 
 While with Jukto, teams can:
 
-- **Connect** live data from Databricks, Trino, BigQuery, Snowflake, CSV/XLSX, and many more.
-- **Analyze** using SQL, Python, or plain English queries with AI agents
-- **Visualize** insights through drag-and-drop dashboards
-- **Automate** alerts, reports, and agentic workflows
-- **Collaboration** with teams in real time, share, and publish effortlessly
+- **Generate** optimized kernels from PyTorch or natural language descriptions.
+- **Optimize** inference configs for vLLM, SGLang, and more using AI-driven exploration.
+- **Benchmark** kernels in real-time with latency, throughput, and FLOP metrics.
+- **Deploy** universally across NVIDIA, AMD, AWS, GCP—without rewrites.
+- **Collaborate** with AI agents that evolve kernels continuously in the background.
 
-  > We bring data, people, and AI together in one real-time, connected environment.
+  > We connect AI models, hardware, and teams in one real-time, optimized environment.
 
 **The Opportunity**
 
-We’re building **Jukto** to become the *platform of choice* for modern data-driven teams where analytics, automation, and collaboration come together in one place. We are constantly improving Jukto to **make workflows more useful, deliver insights faster, and create a better experience** for users to self-serve, with the goal of making **Jukto** the standard platform for AI-driven data operations, so every organization can turn data into a strategic advantage.
+We’re building **Jukto** to become the platform of choice for AI infrastructure teams where kernel generation, optimization, and deployment come together in one place. We are constantly improving Jukto to **make workflows faster, deliver peak performance, and create a better experience** for users to self-serve, with the goal of making **Jukto** the standard platform for AI-driven GPU operations, so every organization can turn compute into a strategic advantage.
 
 ---
 <div align="center">
 
 # **System of Action Manifesto**
-## *Jukto - AI-native Self-Serve Collaborative Data Platform*  
-### *Turn raw data into collective intelligence*
+## *Jukto - AI-Powered GPU Kernel Optimization Platform*  
+### *Turn raw compute into peak performance*
 
 ---
 
-We didn't build Jukto because we love dashboards.  
-We built it because we were tired of watching brilliant teams waste 20+ hours a week buried under broken pipelines, disconnected tools, and endless dashboards.  
+We didn't build Jukto because we love kernels.  
+We built it because we were tired of watching brilliant AI teams waste 20+ hours a week buried under slow inference, inefficient kernels, and endless tuning loops.  
 
-Ask any Analyst, Engineer, or Decision-maker:
+Ask any ML Engineer, Researcher, or Infrastructure Lead:
 
-*"I’m drowning in dashboards and emails. I know the data is there somewhere, but no one has time to turn it into insights."*
+*"I’m drowning in configs and benchmarks. I know the hardware is capable, but no one has time to unlock its full potential."*
 
 So we started over.  
 
 ---
 
-Jukto is not a BI tool.  
-Not a notebook.  
-Not another dashboard.  
+Jukto is not a compiler.
+Not a tuner.  
+Not another optimizer.  
 
-**Jukto is the first true Collaborative Data Platform**  
-A place where **humans and AI reason together**, live, and act in real-time.  
-
----
-
-Your queries? **Already contextualized**.  
-Your reports? **Already interactive**.  
-Your insights? **Already actionable**.  
-
-**Jukto** handles the heavy lifting, so your team can focus on **decisions, not chores**.  
-
-This is not about pretty charts/dashboards.  
-It’s about turning data into action, so your team spends less time managing numbers and more time **building, growing, and leading**.
-Because no one became a data scientist, analyst, or engineer to babysit broken tools.  
+**Jukto is the first true AI-Native GPU Optimization Platform**  
+A place where **humans and AI agents reason together**, live, and evolve kernels in real-time.  
 
 ---
 
-We’ve talked to teams stuck in silos, slowed down by approvals, or buried in spreadsheets.
-The giants had decades to fix this. They didn't.  
-They promised clarity but delivered busywork, then called it **progress**. 
+Your models? **Already at peak throughput**.  
+Your kernels? **Already hardware-optimized**.  
+Your inference? **Already 2-3x faster**.  
+
+**Jukto** handles the heavy lifting, so your team can focus on **innovation, not bottlenecks**.  
+
+This is not about minor speedups.  
+It’s about turning GPUs into rockets, so your team spends less time debugging compute and more **time training, deploying, and scaling**.
+Because no one became an ML engineer or researcher to babysit inefficient kernels.  
+
+---
+
+We’ve talked to teams stuck in vendor lock-in, slowed down by manual tuning, or buried in CUDA code.
+The giants had decades to fix this. They didn't.
+They promised performance but delivered complexity, then called it **progress**. 
 
 We are not a plugin.  
-We are not a prettier report.  
-We exist so your team stops **wasting 20+ hours a week** on endless spreadsheets, broken pipelines, and clicking between ten different tools.
+We are not a faster benchmark.  
+We exist so your team stops **wasting 20+ hours a week** on endless configs, broken kernels, and switching between ten different tools.
 
 ---
 
 Traditional tools ask:
 
-*"Did you finish your data chores today?"*  
+*"Did you tune your kernels today?"*  
 
 Jukto asks:
 
-**"What decision will you make today? We’ll handle the rest."**  
+**"What model will you scale today? We’ll optimize the rest."**  
 
 This is not software.  
 This is liberation.  
-This is **the operating system your team deserves**.  
+This is **the operating system your GPUs deserve**.  
 
 ---
 
 We are builders who have lived the chaos.  
-We’ve broken pipelines, lost nights to dashboards, and questioned every tool we used.  
-Now we are building **the OS we always wished existed**.  
+We’ve broken kernels, lost nights to benchmarks, and questioned every optimizer we used.  
+Now we are building **the AI agent we always wished existed**.  
 
 If you’ve ever said:
 
-*"I could move faster if my tools got out of my way"*  
+*"I could scale faster if my GPUs got out of my way"*  
 
 —this is for you.  
 
-Join us. Be part of building the future of collaborative intelligence.
+Join us. Be part of building the future of GPU intelligence.
 
 You’ll hear directly from us.  
 No sales pitch.  
@@ -133,7 +133,7 @@ And you will help shape **what comes next**.
 ---
 
 **— Founder of Jukto**  
-*Obsessed with data. Still shipping.*
+*Obsessed with compute. Still shipping.*
 
 </div>
 
@@ -148,13 +148,13 @@ body { background-color: #0a0a0a; color: #ffffff; }
 
 ## 🤝 Why Join Us
 
-- **Ownership & Impact:** Take full ownership of your work, influence product direction, and see your solutions used in real enterprise workflows.
+- **Ownership & Impact:** Take full ownership of your work, influence product direction, and see your solutions accelerating real AI workloads.
 
 - **Career Growth:** Shape your role, grow with the company, and accelerate your professional development.
 
-- **Meaningful Work:** Solve complex problems that directly empower decision-makers and drive organizational success.
+- **Meaningful Work:** Solve complex problems that directly empower AI teams and drive computational efficiency.
 
-We are looking for **critical thinkers, problem solvers, and strong communicators** who thrive in a fast-paced environment, embrace ownership, and are passionate about creating tools that transform how enterprises make decisions.
+We are looking for **critical thinkers, problem solvers, and strong communicators** who thrive in a fast-paced environment, embrace ownership, and are passionate about creating tools that transform how how AI runs on GPUs.
   
 ---
 
@@ -170,17 +170,6 @@ Have ideas, feedback, or want to collaborate? Connect with us:
 ---
 
 ## 🧠 Featured Open Source Projects
-
-### [Jukto AI: GPU Inference Optimizer](https://github.com/jukto-ai/JuktoAI-GPU)
-
-📡 We are building an AI agent that automatically writes, benchmarks, and continuously evolves the fastest possible GPU kernels and inference configs.
-
----
-### AI-powered GPU Kernel Inference
-
-- ⚙️ Unified, automated optimization layer to write the fastest GPU kernel code
-
----
 
 ### [SwarmSync-SDK](https://github.com/TheBinder-AI/SwarmSync-SDK)  
 
