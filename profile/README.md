@@ -22,7 +22,7 @@
 
 In today’s AI world, every model runs on GPUs, but optimization is scattered. Teams waste weeks manually tuning kernels, configs, and inference engines, leading to inefficient compute and skyrocketing costs.
 
-**Jukto** (Bengali for `connected`) is on a mission to change that. We're building an **AI-Native GPU Kernel Optimization Platform** that unifies fragmented workflows into a single, AI-native layer to **generate, optimize, benchmark, and deploy** the fastest possible GPU kernels.
+**Jukto** (Bengali for `connected`) is on a mission to change that. We're building an **AI-Native GPU Kernel Optimization Platform** that unifies fragmented, manual workflows into a single, autonomous layer.
 
 Think of it as "**Jukto: GPU Performance Optimization as a Service**". Tools like Triton and TensorRT have shown what's possible, but they're manual, vendor-locked, and inaccessible for most. Jukto democratizes that power: an accessible, flexible platform built for speed, portability, and collaboration between humans and AI agents.
 
@@ -36,11 +36,10 @@ Modern AI organizations spend millions on GPU compute, but 90% of it runs at sub
 
 While with Jukto, teams can:
 
-- **Generate** optimized kernels from PyTorch or natural language descriptions.
+- **Generate** CUDA/Triton kernels from PyTorch or natural language descriptions.
 - **Optimize** inference configs for vLLM, SGLang, and more using AI-driven exploration.
-- **Benchmark** kernels in real-time with latency, throughput, and FLOP metrics.
+- **Trace & Analyze** GPU and kernel (memory access, thread divergence, register spills).
 - **Deploy** universally across NVIDIA, AMD, AWS, GCP—without rewrites.
-- **Collaborate** with AI agents that evolve kernels continuously in the background.
 
   > We connect AI models, hardware, and teams in one real-time, optimized environment.
 
